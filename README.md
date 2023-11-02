@@ -2,7 +2,7 @@
 Repository containing a portfolio of data science projects I have completed individually and contributed to on a team. The portfolio is presented in Jupyter notebooks, R markdown, and SQL files.
 ## Contents
 - ### Machine Learning Projects
-    - #### Multi-Class Classification of Bets and Parlays for DraftKings Sportsbook
+    - [Multi-Class Classification of Bets and Parlays for DraftKings Sportsbook](https://github.com/ctomko3/DataScience_Portfolio/tree/31710be605e3f5dd94f28a2b796a78a86e07b245/Multi-Class%20Classification%20of%20Bets%20and%20Parlays%20for%20DraftKings%20Sportsbook)
     - #### Music Genre Classification Using Audio Spectrograms
     - #### Predicting the Outcome of MLB Pitches from 2015 - 2018
 - ### Data Analysis and Visualization
