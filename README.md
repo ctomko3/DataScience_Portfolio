@@ -5,10 +5,11 @@ Repository containing a portfolio of data science projects I have completed indi
     - [Multi-Class Classification of Bets and Parlays for DraftKings Sportsbook](https://github.com/ctomko3/DataScience_Portfolio/tree/31710be605e3f5dd94f28a2b796a78a86e07b245/Multi-Class%20Classification%20of%20Bets%20and%20Parlays%20for%20DraftKings%20Sportsbook)
     - [Music Genre Classification Using Audio Spectrograms](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Music%20Genre%20Classification%20Using%20Audio%20Spectrograms)
     - [Predicting the Outcome of MLB Pitches from 2015 - 2018](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Predicting%20the%20Outcome%20of%20MLB%20Pitches%20from%202015%20-%202018): Project is currently in progress
+    - [Applying Optimization to NBA Lineups](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Applying%20Optimization%20to%20NBA%20Lineups)
+
 - ### Data Analysis and Visualization
   - __Python__ 
     - [Expanding Spotify's Business Intelligence (BI) Solutions](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Expanding%20Spotify's%20Business%20Intelligence%20(BI)%20Solutions)
-    - [Applying Optimization to NBA Lineups](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Applying%20Optimization%20to%20NBA%20Lineups)
     - [Determining the Relationship of Movie Attributes and Revenue](https://github.com/ctomko3/DataScience_Portfolio/tree/a411a278a6cb38d5f20c0d7ce907050ed0365b7c/Determining%20the%20Relationship%20of%20Movie%20Attributes%20and%20Revenue)
   - __R__
     - [Analyzing NCAA Basketball Tournament Teams Using Logistic Regression](https://github.com/ctomko3/DataScience_Portfolio/tree/8594e6b6fc1816841c16eeec63b2ca45ba26ceb9/Analyzing%20NCAA%20Tournament%20Teams)
