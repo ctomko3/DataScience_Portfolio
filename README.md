@@ -1,4 +1,4 @@
-# DataScience_Portfolio
+# Cameron Tomko's Data Science Project Portfolio
 Repository containing a portfolio of data science projects I have completed individually and contributed to on a team. The portfolio is presented in Jupyter notebooks, R markdown, and SQL files.
 ## Contents
 - ### Machine Learning Projects
