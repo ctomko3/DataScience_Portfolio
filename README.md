@@ -9,7 +9,7 @@ Repository containing a portfolio of data science projects I have completed indi
   - __Python__ 
     - [Expanding Spotify's Business Intelligence (BI) Solutions](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Expanding%20Spotify's%20Business%20Intelligence%20(BI)%20Solutions)
     - [Applying Optimization to NBA Lineups](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Applying%20Optimization%20to%20NBA%20Lineups)
-    - #### Determining the Relationship of Movie Attributes and Revenue
+    - [Determining the Relationship of Movie Attributes and Revenue](https://github.com/ctomko3/DataScience_Portfolio/tree/a411a278a6cb38d5f20c0d7ce907050ed0365b7c/Determining%20the%20Relationship%20of%20Movie%20Attributes%20and%20Revenue)
   - __R__
     - [Analyzing NCAA Basketball Tournament Teams Using Logistic Regression](https://github.com/ctomko3/DataScience_Portfolio/tree/8594e6b6fc1816841c16eeec63b2ca45ba26ceb9/Analyzing%20NCAA%20Tournament%20Teams)
     - [Collecting, Manipulating, and Blending Twitter Data](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Collecting%2C%20Manipulating%2C%20and%20Blending%20Twitter%20Data)
