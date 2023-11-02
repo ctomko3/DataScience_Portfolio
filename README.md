@@ -14,6 +14,6 @@ Repository containing a portfolio of data science projects I have completed indi
     - [Analyzing NCAA Basketball Tournament Teams Using Logistic Regression](https://github.com/ctomko3/DataScience_Portfolio/tree/8594e6b6fc1816841c16eeec63b2ca45ba26ceb9/Analyzing%20NCAA%20Tournament%20Teams)
     - [Collecting, Manipulating, and Blending Twitter Data](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Collecting%2C%20Manipulating%2C%20and%20Blending%20Twitter%20Data)
     - [Analyzing Movie Data from Movie Lens](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Analyzing%20Movie%20Data%20from%20Movie%20Lens)
-- ### SQL Databases Development
+- ### SQL Database Development and Querying
     - [Creating a Database for Course Scheduling Management](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Creating%20a%20Database%20for%20Course%20Scheduling%20Management)
     - [Values Driven Company-Candidate Matching for Career Development](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Values%20Driven%20Company-Candidate%20Matching%20for%20Career%20Development)
