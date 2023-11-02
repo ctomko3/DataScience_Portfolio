@@ -11,7 +11,7 @@ Repository containing a portfolio of data science projects I have completed indi
     - #### Applying Optimization to NBA Lineups
     - #### Determining the Relationship of Movie Attributes and Revenue
   - __R__
-    - #### [Analyzing NCAA Basketball Tournament Teams Using Logistic Regression]
+    - [Analyzing NCAA Basketball Tournament Teams Using Logistic Regression](https://github.com/ctomko3/DataScience_Portfolio/tree/8594e6b6fc1816841c16eeec63b2ca45ba26ceb9/Analyzing%20NCAA%20Tournament%20Teams)
     - #### Collecting, Manipulating, and Blending Twitter Data
     - #### Analyzing Movie Data from Movie Lens
 - ### SQL Databases Development
