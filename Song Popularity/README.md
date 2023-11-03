@@ -6,4 +6,6 @@ The team worked to find the underlying formula behind what goes into making a �
 #### Feature Engineering
   - Mode: Given as Major, Minor transformed into 0,1
   - Time Signature: Given as 1/4, 2/4, 3/4, 4/4, and 5/4, converted to only be the top number
-  - Key: All 12 keys exist on a loop called the circle of fifths, transformed each key by positioning them equally around a circle and assigning each the value of θ =((i) π)/6 for all i ϵ {0...11} based on location. 
+  - Key: All 12 keys exist on a loop called the circle of fifths, transformed each key by positioning them equally around a circle and assigning each the value of θ =((i) π)/6 for all i ϵ {0...11} based on location.
+
+Here is a link to the final presentation: [Song Popularity Presentation](https://1drv.ms/p/s!Alxwy6tfpIPZg7ZKrDW9046dZ6B_3Q?e=Qrf1lY)
