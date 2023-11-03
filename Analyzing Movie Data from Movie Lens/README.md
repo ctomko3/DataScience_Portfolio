@@ -1,1 +1,3 @@
+## Analyzing Movie Data from Movie Lens
 
+The project is aimed at exploring the movie data set from MovieLens. The data contains user data, movie data, and corresponding ratings. The goal of the project was to gain insight into the top movies, the preferences of different audiences, the relationship of men and women, and record basic statistics and visuals. In this project, I made several inquiries about the easiest ages to please, the correlation between user occupation and movie rating, the relationship between movie genre and movie rating, an equal distribution of respondents based on age, and the underrepresented groups. The findings and visualization are provided within the Jupyter notebook.
