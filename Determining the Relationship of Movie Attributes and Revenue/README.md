@@ -1,1 +1,6 @@
+## Determining the Relationship of Movie Attributes and Revenue
 
+A favorite pastime of many is to relax and watch a good movie, but what makes a movie good? For our project, we took on the perspective of a team working for a film-making company. A dataset of 3400 movies from within the last 22 years was used. The movies in the dataset vary in genre, MPAA (Motion Picture Association of America) rating, and budget. In addition to these fields, the dataset also consists of the title, total earned domestically in USD, total earned internationally in USD, the distributor, and the runtime. These movie characteristics are integral to understanding the performance of a movie. The project uses the definition of a successful film-making company by how much money it makes. With that in mind, examining the relationship between the revenue attribute of the dataset and other attributes that possibly affected a movie’s revenue was the focal point of the project. To analyze this relationship, three conjectures were formed:
+  - MPAA rating will impact a movie’s revenue in a positive direction.
+  - More acclaimed movie distributors will result in movies producing a larger revenue in comparison to a smaller movie studio?
+  - Movies with higher budgets will produce more revenue.
