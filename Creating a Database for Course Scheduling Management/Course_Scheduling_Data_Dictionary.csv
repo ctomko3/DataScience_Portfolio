@@ -1,0 +1,54 @@
+﻿Column,Description,Domain,,Relationships,,,
+profID,the ID of that professor,String primary key,,Table 1,Table 2,Relationship Type,Explanation
+profFirst,First name of that professor,String,,Professor,Department,M-1,Many professors can be in one department
+profLast,Last name of that professor,String,,Professor,Department,1-1,One professor can manage one department
+deptID ,Id of the department that professor belongs to ,String foreign key to Department,,Professor,Course,1-M,One professor can teach many courses
+profSalary,Professors salary,Currency,,Professor,Room,M-1,Many professors can have an office in one room
+Office,ID of that professors office,String foreign key to Room,,Department,Major,1-M,One department has many majors
+studentID,the ID of the student,String Primary Key,,Room ,Schedule,1-M,One room can be on the schedule many times
+studentFirst,First name of the student,String,,Schedule ,Course,M-1,One course can be on the schedule many times
+studentLast,Last name of the student,String,,Course,Major,M-1,Many courses can be in the same major
+studentMajor,Major of the student,String Foreign Key to Major,,Course,Registration,1-M,One course can be registered for by many students
+Scholarship,Scholarship that this student receives ,Currency,,Student ,Registration,1-M,One student can register for multiple courses
+studentTuition,Tuition that this student should pay for each year,Currency,,Student ,Major,M-1,Many students can be in the same major
+yearToGrad,The year to graduate for this student,Date,,,,,
+courseID,the ID of that course,String Primary Key,,,,,
+profID,the ID of the professor teaching that course,String foreign key to Professor,,,,,
+courseName,the name of the course,String,,,,,
+isOpen,Is that course open or closed?,Boolean,,,,,
+courseTerm,What term that course is offered in,String,,,,,
+courseRoom,What room that course is held in ,String foreign key to Room,,,,,
+courseTime,What time that course is held at,Time,,,,,
+courseDay,What day the course is held on,String,,,,,
+deptID,what department that course is in,String foreign key to Department,,,,,
+deptID,The ID of the Department,String Primary Key,,,,,
+deptName,The name of the department,String,,,,,
+managerID,The ID of the professor that manages the department,String ,,,,,
+regID ,the ID of each course registration,String  Primary Key,,,,,
+courseID,the ID of that course ,String Foreign Key to Course,,,,,
+studentID,the ID of the student ,String Foreign Key to Student ,,,,,
+RoomID,ID of Room ,String  Primary Key,,,,,
+Building,Building that room is in,String ,,,,,
+roomNum,Room number in building,Number,,,,,
+startTime ,the start time of the reservation,Datetime Primary Key,,,,,
+endTime,the end time of the reservation,Datetime Primary Key,,,,,
+roomID,ID of Room ,"String, Primary Key, Foreign Key to Room",,,,,
+courseID,ID of Course,String Foreign Key to Course,,,,,
+majorID,ID of major ,String Primary Key,,,,,
+majorName,Name of major,String,,,,,
+deptID ,ID of Department,String Foreign Key to Department,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
