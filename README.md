@@ -2,13 +2,15 @@
 Repository containing a portfolio of data science projects I have completed individually or contributed to while on a team. The portfolio is presented in Jupyter notebooks, R markdown, SQL files, and final presentations, posters, and reports.
 ## Contents
 - ### Machine Learning Projects
-    - [Multi-Class Classification of Bets and Parlays for DraftKings Sportsbook](https://github.com/ctomko3/DataScience_Portfolio/tree/31710be605e3f5dd94f28a2b796a78a86e07b245/Multi-Class%20Classification%20of%20Bets%20and%20Parlays%20for%20DraftKings%20Sportsbook)
-    - [Music Genre Classification Using Audio Spectrograms](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Music%20Genre%20Classification%20Using%20Audio%20Spectrograms)
     - [Applying Optimization to NBA Lineups](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Applying%20Optimization%20to%20NBA%20Lineups)
+    - [Multi-Class Classification of Bets and Parlays for DraftKings Sportsbook](https://github.com/ctomko3/DataScience_Portfolio/tree/31710be605e3f5dd94f28a2b796a78a86e07b245/Multi-Class%20Classification%20of%20Bets%20and%20Parlays%20for%20DraftKings%20Sportsbook)
+    - [Song Popularity through Different ML Models]
+    - [Music Genre Classification Using Audio Spectrograms](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Music%20Genre%20Classification%20Using%20Audio%20Spectrograms)
 
 - ### Data Analysis and Visualization
   - __Python__ 
     - [Determining the Relationship of Movie Attributes and Revenue](https://github.com/ctomko3/DataScience_Portfolio/tree/a411a278a6cb38d5f20c0d7ce907050ed0365b7c/Determining%20the%20Relationship%20of%20Movie%20Attributes%20and%20Revenue)
+   
   - __R__
     - [Analyzing NCAA Basketball Tournament Teams Using Logistic Regression](https://github.com/ctomko3/DataScience_Portfolio/tree/8594e6b6fc1816841c16eeec63b2ca45ba26ceb9/Analyzing%20NCAA%20Tournament%20Teams)
     - [Collecting, Manipulating, and Blending Twitter Data](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Collecting%2C%20Manipulating%2C%20and%20Blending%20Twitter%20Data)
