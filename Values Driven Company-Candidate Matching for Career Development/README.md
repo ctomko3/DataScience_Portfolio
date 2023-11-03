@@ -1,1 +1,15 @@
+## Values Driven Company-Candidate Matching for Career Development
+
+  WPI’s Career Development Center (WPI CDC) serves all undergraduate and graduate students and alumni from all majors and disciplines for life. The WPI CDC advises on many elements throughout the search, interview, and negotiation process and provides an individualized and holistic approach to career advising and exploration. A trend identified through quantitative data collected via the First Destination Survey of recent graduates and qualitatively gathered from career advising appointments shows a growing interest in matching personal and employer values. 
+    
+  As a result of this, the WPI CDC added a question to the class of 2023 First Destination Survey asking: What were the main factors in the acceptance of your offer? ( choose up to 3)
+      Choices: Compensation, Location, Impact of Product or Service, Alignment with Personal Values, Confidence in ability to do the Job, Flexibility (remote, hybrid, travel, etc.)
+
+  Traditionally, job search tools focus filters and selections on areas such as position/title, location, job function, travel, industry, compensation, etc. Job seekers can also read user-provided reviews through sites like Glassdoor, or company profiles on platforms such as The Muse. Some platforms attempt to rate and rank companies based on aspects such as environmental impact and diversity and inclusion. In contrast, others administratively manage the highlighting of specific opportunities or employers based on determined criteria.
+Some of the resulting challenges for WPI’s CDC are:
+- Students and alumni are more interested in finding an employer who shares their values, but they are finding it difficult to identify companies that match their values profile
+- High-level employer ratings are difficult to develop as a value-added data point due to multi-dimensional complexity and data availability. This is especially true for ratings involving sociocultural values.
+- Employers desire candidates who are a good cultural fit because it can be a significant predictor of job performance. However, the WPI CDC does not currently have a good way of facilitating such matching.
+
+As a result, we are seeking to design a database for a system that would facilitate company-candidate matching on a set of dimensions that would include sociocultural attributes. Specifically, the system should support company-to-candidate matching based on sociocultural attributes, monetary compensation, traditional benefits, position, and location. Candidates should be able to provide a rating of how important the various components/attributes of the indicated dimensions are to them and the database should store ratings for companies on the various components/attributes of the indicated dimensions. Candidates would use the system to conduct searches for companies based on their selected dimensions, attributes, and ratings. The WPI CDC would use the system to help match companies and candidates along specified dimensions, attributes, and ratings of interest.
 
