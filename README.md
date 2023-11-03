@@ -4,8 +4,8 @@ Repository containing a portfolio of data science projects I have completed indi
 - ### Machine Learning Projects
     - [Applying Optimization to NBA Lineups](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Applying%20Optimization%20to%20NBA%20Lineups)
     - [Multi-Class Classification of Bets and Parlays for DraftKings Sportsbook](https://github.com/ctomko3/DataScience_Portfolio/tree/31710be605e3f5dd94f28a2b796a78a86e07b245/Multi-Class%20Classification%20of%20Bets%20and%20Parlays%20for%20DraftKings%20Sportsbook)
-    - [Song Popularity through Different ML Models](https://github.com/ctomko3/DataScience_Portfolio/tree/099c16340bdd6e56143672509eaaacac38242bd0/Song%20Popularity)
     - [Music Genre Classification Using Audio Spectrograms](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Music%20Genre%20Classification%20Using%20Audio%20Spectrograms)
+    - [Song Popularity through Different ML Models](https://github.com/ctomko3/DataScience_Portfolio/tree/099c16340bdd6e56143672509eaaacac38242bd0/Song%20Popularity)
 
 - ### Data Analysis and Visualization
   - __Python__ 
