@@ -1,5 +1,6 @@
 # Cameron Tomko's Data Science Project Portfolio
-Repository containing a portfolio of data science projects I have completed individually or contributed to while on a team. The portfolio is presented in Jupyter notebooks, R markdown, SQL files, and final presentations, posters, and reports.
+Repository containing a portfolio of data science projects I have completed individually or contributed to while on a team. The portfolio is presented in Jupyter notebooks, R markdown, SQL files, and final presentations, posters, and reports. Please us ethe folder directory to browse the contents of the repository. 
+
 ## Contents
 - ### Machine Learning Projects
     - Applying Optimization to NBA Lineups
