@@ -15,7 +15,7 @@ Repository containing a portfolio of data science projects I have completed indi
     - [Collecting, Manipulating, and Blending Twitter Data](https://github.com/ctomko3/DataScience_Portfolio/tree/54564a0f81224aea7f635a4e154c708ba2c62ed6/Collecting%2C%20Manipulating%2C%20and%20Blending%20Twitter%20Data)
     
   - __Tableau__
-    - [Expanding Spotify's Business Intelligence (BI) Solutions](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Expanding%20Spotify's%20Business%20Intelligence%20(BI)%20Solutions)
+    - [Expanding Spotify's Business Intelligence (BI) Solutions](https://github.com/ctomko3/DataScience_Portfolio/tree/5e24561553f4e28c9f951aeb2e5c917fce5170e1/Expanding%20Spotify's%20Business%20Intelligence%20(BI)%20Solutions)
 
 - ### SQL Database Development and Querying
     - [Creating a Database for Course Scheduling Management](https://github.com/ctomko3/DataScience_Portfolio/tree/54564a0f81224aea7f635a4e154c708ba2c62ed6/Creating%20a%20Database%20for%20Course%20Scheduling%20Management)
