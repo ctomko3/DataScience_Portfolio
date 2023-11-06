@@ -10,7 +10,7 @@ Repository containing a portfolio of data science projects I have completed indi
     - [Determining the Relationship of Movie Attributes and Revenue](https://github.com/ctomko3/DataScience_Portfolio/tree/a411a278a6cb38d5f20c0d7ce907050ed0365b7c/Determining%20the%20Relationship%20of%20Movie%20Attributes%20and%20Revenue)
    
   - __R__
-    - [Analyzing Movie Data from Movie Lens](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Analyzing%20Movie%20Data%20from%20Movie%20Lens)
+    - [Analyzing Movie Data from Movie Lens] (https://github.com/ctomko3/DataScience_Portfolio/tree/fa9b644746852cbbef9e26b4893973ea1b858b2f/Analyzing%20Movie%20Data%20from%20Movie%20Lens)
     - [Analyzing NCAA Basketball Tournament Teams Using Logistic Regression](https://github.com/ctomko3/DataScience_Portfolio/tree/8594e6b6fc1816841c16eeec63b2ca45ba26ceb9/Analyzing%20NCAA%20Tournament%20Teams)
     - [Collecting, Manipulating, and Blending Twitter Data](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Collecting%2C%20Manipulating%2C%20and%20Blending%20Twitter%20Data)
     
