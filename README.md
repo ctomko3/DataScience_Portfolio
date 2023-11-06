@@ -2,7 +2,7 @@
 Repository containing a portfolio of data science projects I have completed individually or contributed to while on a team. The portfolio is presented in Jupyter notebooks, R markdown, SQL files, and final presentations, posters, and reports.
 ## Contents
 - ### Machine Learning Projects
-    - [Applying Optimization to NBA Lineups](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Applying%20Optimization%20to%20NBA%20Lineups)
+    - [Applying Optimization to NBA Lineups](https://github.com/ctomko3/DataScience_Portfolio/tree/54564a0f81224aea7f635a4e154c708ba2c62ed6/Applying%20Optimization%20to%20NBA%20Lineups)
     - [Multi-Class Classification of Bets and Parlays for DraftKings Sportsbook](https://github.com/ctomko3/DataScience_Portfolio/tree/31710be605e3f5dd94f28a2b796a78a86e07b245/Multi-Class%20Classification%20of%20Bets%20and%20Parlays%20for%20DraftKings%20Sportsbook)
     
 - ### Data Analysis and Visualization
