@@ -18,5 +18,5 @@ Repository containing a portfolio of data science projects I have completed indi
     - [Expanding Spotify's Business Intelligence (BI) Solutions](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Expanding%20Spotify's%20Business%20Intelligence%20(BI)%20Solutions)
 
 - ### SQL Database Development and Querying
-    - [Creating a Database for Course Scheduling Management](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Creating%20a%20Database%20for%20Course%20Scheduling%20Management)
+    - [Creating a Database for Course Scheduling Management](https://github.com/ctomko3/DataScience_Portfolio/tree/54564a0f81224aea7f635a4e154c708ba2c62ed6/Creating%20a%20Database%20for%20Course%20Scheduling%20Management)
     - [Values Driven Company-Candidate Matching for Career Development](https://github.com/ctomko3/DataScience_Portfolio/tree/dc71d244041fe39bbe3c69f451b766196b6f3396/Values%20Driven%20Company-Candidate%20Matching%20for%20Career%20Development)
